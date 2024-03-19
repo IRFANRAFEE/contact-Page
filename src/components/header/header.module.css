@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+.main{
+    /* border: 1px solid brown; */
+    margin-left: 20px;
+    font-family: 'Open Sans', sans-serif;
+    /* margin-top: 20px; */
+}
+.heading{
+/* border: 1px solid red; */
+color: chartreuse;
+}
+.para{
+    /* border: 1px solid green; */
+    width: 50%;
+}
